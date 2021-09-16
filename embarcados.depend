@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631760347 source:c:\users\mathm\onedrive\Área de trabalho\embarcados\main.cpp
+	<iostream>
+	<locale.h>
+
